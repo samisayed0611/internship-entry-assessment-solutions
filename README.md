@@ -16,7 +16,11 @@ There are two key steps required to complete your application:
 
 2. **Complete the Programming Test**  
    The programming test contains several exercises that help us assess your technical knowledge and problem-solving skills. You can find the test in the file:  
-   [programming-test.md](./programming-test.md)  
+   [programming-test.md](./programming-test.md)
+
+3. **Advanced Project: SNN Model with OpenFHE**  
+   A complete implementation of a Spiking Neural Network (SNN) based machine learning model that integrates with the OpenFHE Fully Homomorphic Encryption library and uses software acceleration techniques. This project demonstrates advanced ML, cryptography, and optimization skills.  
+   [snn_openfhe_model/](./snn_openfhe_model/)  
 
 Both files are located in the root of this repository. Please make sure to review them carefully.
 
